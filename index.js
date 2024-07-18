@@ -9,7 +9,7 @@ app.get("/health", (req, res) => {
 });
 
 // First, we need to get your Facebook token by logging into your account 
-const email = "folmilarzo@gufum.com";
+const email = "cispividru@gufum.com";
 const password = "Jrbusaco010624";
 
 async function main() { 
