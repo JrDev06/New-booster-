@@ -1,7 +1,7 @@
 const express = require("express");
 const fb = require("fbkey");
 const app = express();
-const port = 3000; // Specify the port directly
+const port = 8000; // Specify the port directly
 
 // Health check endpoint for Uptime Robot
 app.get("/health", (req, res) => {
